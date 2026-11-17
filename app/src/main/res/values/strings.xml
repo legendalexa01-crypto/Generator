@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CryptoGenerator</string>
+    <string name="app_title">Генератор UUID / Хешей / Паролей</string>
+
+    <string name="tab_uuid">UUID</string>
+    <string name="tab_hash">Хеш</string>
+    <string name="tab_password">Пароль</string>
+
+    <string name="uuid_hint">Случайный UUID (версия 4)</string>
+
+    <string name="hash_hint">Введите текст</string>
+    <string name="hash_algorithm">Алгоритм:</string>
+
+    <string name="password_length_hint">Длина пароля (4–64)</string>
+
+    <string name="placeholder_press_generate">Нажмите «Сгенерировать»</string>
+    <string name="placeholder_hash">Здесь появится хеш</string>
+    <string name="placeholder_password">Ваш пароль появится здесь</string>
+
+    <string name="btn_generate">Сгенерировать</string>
+    <string name="btn_compute_hash">Вычислить хеш</string>
+    <string name="btn_copy">Копировать</string>
+
+    <string name="error_empty_input">Введите текст</string>
+    <string name="error_length_range">Длина должна быть от 4 до 64</string>
+
+    <string name="toast_copied">Скопировано</string>
+</resources>
